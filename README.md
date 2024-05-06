@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suriya Sing Rajput</h1>
 <h3 align="center">Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing BCA i need inter ship.</h3>
 
-- 🔭 I’m currently working on **Back End Web Developer**
+- 🔭 I’m currently working on **Back-End Web Development**
 
-- 🌱 I’m currently learning **Bootstrap js back End**
+- 🌱 I’m currently learning **Bootstrap js back-End Web-Development**
 
 - 📫 How to reach me **rajputsuraj221221@gmail.com**
 
