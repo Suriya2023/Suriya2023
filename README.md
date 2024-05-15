@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suriya Sing Rajput</h1>
-<h3 align="center">Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing BCA i need inter ship.</h3>
+<h3 align="center">Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing Bachelor of Computer Applications.</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/8L2mc89iC1fTq/giphy.gif" > -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriya2023&label=Profile%20views&color=0e75b6&style=flat" alt="suriya2023" /> </p>
 <!-- <img align="right" width="400" src="https://www.bing.com/th/id/OGC.67155f51e2ad53c2a6e7ea09100c196c?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f1Zq8d95kJdtg4%2fgiphy.gif&ehk=rJ8rJYMgj6XYFrfszYSWK5hV9GDdrejYWbgXEo4DXP0%3d"> -->
 <img align="right" width="400" src = "https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
-- 🔭 I’m currently learning on **Back End Web Developer**
+- 🔭 I,am doing **Bachelor of Computer Applications **
 
 - 🌱 I’m currently learning **Bootstrap js back End**
 
