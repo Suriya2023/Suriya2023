@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suriya Sing Rajput</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+👋+I'am+Suraj Singh Rajput 😂👈... ;+I'+am+🚶👉 Learning 💻 Web Development..." alt="Typing SVG" align="middle" width="100%" />
+<hr>
+<h1 color='red' ># About </h1>
+
 <h3 align="center">Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing BCA i need inter ship.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suriya2023&label=Profile%20views&color=0e75b6&style=flat" alt="suriya2023" /> </p>
 
 - 🔭 I’m currently learning on **Back End Web Developer**
 
@@ -12,7 +14,10 @@
 - 💬 Ask me about **Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing BCA i need inter-ship.**
 
 - 📫 How to reach me **rajputsuraj221221@gmail.com**
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriya2023&label=Profile%20views&color=0e75b6&style=flat" alt="suriya2023" /> </p>
+
+
 <!-- <img align="right" width="400" src="https://www.bing.com/th/id/OGC.67155f51e2ad53c2a6e7ea09100c196c?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f1Zq8d95kJdtg4%2fgiphy.gif&ehk=rJ8rJYMgj6XYFrfszYSWK5hV9GDdrejYWbgXEo4DXP0%3d"> -->
 <img align="right" width="400" src = "https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 <h3 align="left">Connect with me:</h3>
