@@ -27,7 +27,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/suraj-rajput-275890301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-rajput-275890301" height="30" width="40" /></a>
 <a href="https://fb.com/suryasingh.rajput.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryasingh.rajput.146" height="30" width="40" /></a>
-<a href="https://instagram.com/suraj__________rajput_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj__________rajput_________" height="30" width="40" /></a>
+<a href="https://instagram.com/suraj__________rajput_________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj__________rajput_________" height="30" width="40" />
+
+
+</a>
+
+<a href  = "https://www.whatsapp.com/download"  ><img  align = "" src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg " height = "30" width = "40" /> </a>
+<a href  = "https://desktop.telegram.org/"  ><img  align = "" src = "https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg " height = "30" width = "40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
