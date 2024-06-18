@@ -24,10 +24,11 @@
 <div display = "flex">
 
 
-  <p align = "left" display = "block" ><img align="center" src="https://media.tenor.com/v0FhxoZtDXsAAAAj/peach-goma-peach-and-goma.gif" width = "30%" alt="suriya2023" /></p> 
- <p align = "right"><img align="center" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width = "30%" alt="suriya2023" /></p> 
-      <p align = "center"><img align="center" src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" width = "30%" alt="suriya2023" /></p>
-<p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%" /> </p>
+  <p align = "left" display = "block" ><img align="center" src="https://media.tenor.com/v0FhxoZtDXsAAAAj/peach-goma-peach-and-goma.gif" width = "20%" alt="suriya2023" /> <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="51%" height = "1" /> </p></p> 
+ <p align = "right"><img align="center" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width = "20%" alt="suriya2023" /> <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="51%" height = "1" align = "right" /> </p>
+ </p> 
+      <p align = "left"><img align="center" src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" width = "20%" alt="suriya2023" /></p>
+<p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="50%" /> </p>
 
 </div>
 
