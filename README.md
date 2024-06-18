@@ -53,7 +53,7 @@
     </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" alt="reactnative" width="40" height="40"/> </a>
   
   </p>
-  <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="51%" height = "3" /> </p>
+  <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="5%" height = "3" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suriya2023&show_icons=true&locale=en&layout=compact" alt="suriya2023" /></p>
  
@@ -61,3 +61,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suriya2023&show_icons=true&locale=en" alt="suriya2023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suriya2023&" alt="suriya2023" /></p>
+                    
+
