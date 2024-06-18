@@ -21,9 +21,15 @@
      Aplication and I Need Internship. </h3>
      <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%" height = "1" /> </p>
 <br>
-  <p align = "center"><img align="center" src="https://media.tenor.com/v0FhxoZtDXsAAAAj/peach-goma-peach-and-goma.gif" width = "30%" alt="suriya2023" /></p>
+<div display = "flex">
+
+
+  <p align = "left" display = "block" ><img align="center" src="https://media.tenor.com/v0FhxoZtDXsAAAAj/peach-goma-peach-and-goma.gif" width = "30%" alt="suriya2023" /></p> 
+ <p align = "right"><img align="center" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width = "30%" alt="suriya2023" /></p> 
+      <p align = "center"><img align="center" src="https://media.tenor.com/c_KoArBa4NYAAAAi/work-future.gif" width = "30%" alt="suriya2023" /></p>
 <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%" /> </p>
 
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriya2023&label=Profile%20views&color=0e75b6&style=flat" alt="suriya2023" /> </p>
