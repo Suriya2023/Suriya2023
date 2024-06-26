@@ -9,7 +9,7 @@
   <h3> - 🔭 I’m currently learning on **Back End Web Developer** </h3>
   <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="51%" height = "1" /> </p>
 
-  <h3> - 🌱 I’m currently learning **Bootstrap js back End** </h3>
+  <h3> - 🌱 I’m currently learning **Bootstrap And Node js back End** </h3>
   <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="47%" height = "1" /> </p>
 
  <h3>  - 🤝  I’m a collage Student **Bachelor of Computer Applications** </h3>
