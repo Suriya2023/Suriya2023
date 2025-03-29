@@ -1,6 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+👋+I'am+Suraj Singh Rajput 😂👈... ;+I'+am+🚶👉 Learning 💻 Web Development..." alt="Typing SVG" align="middle" width="100%"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+👋+I'am+Suraj Singh Rajput 😂👈... ;+I'+am+🚶👉 Learning 💻 Full Stack Web Development..." alt="Typing SVG" align="middle" width="100%"  />
 
 <p > <img src="https://camo.githubusercontent.com/2ba60dfee8b2442ea9925afe8f95efa957f047b770f575221a3f98a2f64a8189/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d35302673697a653d32352670617573653d3130303026636f6c6f723d3230433230452663656e7465723d747275652677696474683d31303030266c696e65733d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d" width="100%" height = "30%"  /> </p>
+<div><p>My Resume: <a href="suriya2023.github.io/Resume/"></a> </p></div>
 <h1 color='red' ># About </h1>   
 <p > <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%" height = "1" /> </p>
 <h3 align="center">Hy I am. Web developer. my Front-End is complete And I'm still learning backend And I am currently doing BCA i need inter ship.</h3>
